@@ -244,7 +244,7 @@ button:focus{
     left: 0;
     position: absolute;
     right: 0;
-    top: 50%;
+    top: 30%;
 }
 .section-title h4 {
     background: #fff none repeat scroll 0 0;
@@ -459,8 +459,8 @@ button:focus{
 }
 .info-position {
     text-align: center;
-    font-size: 18px;
-    margin-top: 27px;
+    font-size: 14px;
+    margin-top: 0px;
 }
 .info-block{
     margin-bottom: 28px;
@@ -517,7 +517,7 @@ button:focus{
 }
 .info-text {
     padding-left: 70px;
-    font-size: 17px;
+    font-size: 14px;
     padding-top: 7px;
     padding-bottom: 7px;
 }
@@ -676,22 +676,22 @@ twke3 img {
     margin-bottom: 25px;
 }
 .skill .progress:nth-child(1) .progress-bar {
-    background: #F46E6E;
+    background: #6C8FF3;
 }
 .skill .progress:nth-child(2) .progress-bar {
-    background: #5476A9;
+    background: #6C8FF3;
 }
 .skill .progress:nth-child(3) .progress-bar {
-    background: #63AD68;
+    background: #6C8FF3;
 }
 .skill .progress:nth-child(4) .progress-bar {
-    background: #23C6EC;
+    background: #6C8FF3;
 }
 .skill .progress:nth-child(5) .progress-bar {
-    background: #ff6600;
+    background: #6C8FF3;
 }
 .skill .progress:nth-child(6) .progress-bar {
-    background: #000;
+    background: #6C8FF3;
 }
 #skills p{
     line-height: 30px;
@@ -1053,7 +1053,7 @@ figure.effect-winston:hover p a:first-child i {
 .tech-skills-box-content h3 {
     margin-left: 70px;
     font-weight: bold;
-    color: #4cae4c;
+    color: #6C8FF3;
 }
 
 /*************************
